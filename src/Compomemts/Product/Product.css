@@ -37,3 +37,7 @@
     left: 0;
     padding: 10px;
 }
+
+.btn-cart:hover {
+    background: orange;
+}
