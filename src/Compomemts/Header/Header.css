@@ -1,0 +1,17 @@
+.navbar {
+    background: #1c2b35;
+    padding: 10px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.menu a:hover {
+    color: orange;
+}
