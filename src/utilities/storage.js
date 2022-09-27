@@ -1,0 +1,8 @@
+
+
+
+const addToCart = () => {
+
+};
+
+export { addToCart };

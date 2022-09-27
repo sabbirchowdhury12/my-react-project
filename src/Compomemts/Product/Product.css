@@ -35,7 +35,12 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    padding: 10px;
+    padding: 14px;
+    font-size: 18px;
+}
+
+.btn-cart span {
+    margin-left: 10px;
 }
 
 .btn-cart:hover {
